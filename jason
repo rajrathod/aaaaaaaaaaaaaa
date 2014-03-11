@@ -1,0 +1,64 @@
+{
+    "wallpapers": {
+        "category": [
+            {
+                "name": "Cool HD",
+                "wallpaper": [
+                    {
+                        "author": "By Blah Blah Blah",
+                        "url": "http://poojainfoservice.net/assets/images/header-photo.jpg",
+                        "thumbUrl": "http://poojainfoservice.net/assets/images/header-photo.jpg",
+                        "name": "WP 1"
+                    },
+                    {
+                        "author": "By Blah Blah Blah",
+                        "url": "http://eofdreams.com/data_images/dreams/image/image-04.jpg",
+                        "thumbUrl": "http://eofdreams.com/data_images/dreams/image/image-04.jpg",
+                        "name": "WP 2"
+                    },
+                    {
+                        "author": "By Blah Blah Blah",
+                        "url": "http://www.some-url.com/wp_3.png",
+                        "thumbUrl": "http://www.some-url.com/wp_thumb_3.png",
+                        "name": "WP 3"
+                    },
+                    {
+                        "author": "By Blah Blah Blah",
+                        "url": "http://www.some-url.com/wp_4.png",
+                        "thumbUrl": "http://www.some-url.com/wp_thumb_4.png",
+                        "name": "WP 4"
+                    }
+                ]
+            },
+            {
+                "name": "LOVE",
+                "wallpaper": [
+                    {
+                        "author": "By Blah Blah Blah",
+                        "url": "http://www.some-url.com/wp_1.png",
+                        "thumbUrl": "http://www.some-url.com/wp_thumb_1.png",
+                        "name": "WP 1"
+                    },
+                    {
+                        "author": "By Blah Blah Blah",
+                        "url": "http://www.some-url.com/wp_2.png",
+                        "thumbUrl": "http://www.some-url.com/wp_thumb_2.png",
+                        "name": "WP 2"
+                    },
+                    {
+                        "author": "By Blah Blah Blah",
+                        "url": "http://www.some-url.com/wp_3.png",
+                        "thumbUrl": "http://www.some-url.com/wp_thumb_3.png",
+                        "name": "WP 3"
+                    },
+                    {
+                        "author": "By Blah Blah Blah",
+                        "url": "http://www.some-url.com/wp_4.png",
+                        "thumbUrl": "http://www.some-url.com/wp_thumb_4.png",
+                        "name": "WP 4"
+                    }
+                ]
+            }
+        ]
+    }
+}
